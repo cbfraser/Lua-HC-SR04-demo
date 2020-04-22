@@ -1,3 +1,3 @@
 # Lua-HC-SR04-demo
 
-Simple lua demo driving HR-SC04 ultrasonic distance sensor
+Simple lua demo driving HC-SR04 ultrasonic distance sensor
